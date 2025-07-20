@@ -3,8 +3,7 @@ import React from 'react'
 export default function DashboardPage() {
     return (
         <div>
-            <h1>Dashboard Home</h1>
-            <p>This is the main dashboard page</p>
+            <h1>This is the Dashboard</h1>
         </div>
     )
 }
